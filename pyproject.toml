@@ -1,0 +1,8 @@
+[project]
+name = "Static System Solver"
+version = "1.0.0"
+description = "Solving static systems of classical mechanics"
+
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
