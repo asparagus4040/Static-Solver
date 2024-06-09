@@ -7,6 +7,7 @@ sys.path.append(parent)
 
 from System import System
 
+
 if __name__ == "__main__":
     system = System()
     # points
